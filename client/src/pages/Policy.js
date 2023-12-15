@@ -13,7 +13,7 @@ const Policy = () => {
           />
         </div>
         <div className="col-md-4">
-          <p>Welcome to [Name]. We are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy is designed to help you understand how we collect, use, disclose, and safeguard your data when you visit our E-commerce platform.</p>
+          <p>Welcome to Readcycle. We are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy is designed to help you understand how we collect, use, disclose, and safeguard your data when you visit our website.</p>
 
 <p><b>*Information We Collect*</b></p>
 
